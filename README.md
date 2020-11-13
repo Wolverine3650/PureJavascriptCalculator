@@ -9,7 +9,7 @@ the index.html contains only html skeleton, rest all the things are appended dyn
 I have also tried providing proper comments for easy understanding.
 
 <h3>you can see demo here :<h3>
-<a href ="https://codepen.io/wolverine3650/pen/QWEYEed">Codepen link</a>
+<a href ="https://codepen.io/wolverine3650/pen/QWEYEed" target="_blank">Codepen link</a>
 
 
 <h4>Feel free to make changes and extend the functionality.</h4>
